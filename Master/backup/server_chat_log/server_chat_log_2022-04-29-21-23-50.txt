@@ -1,0 +1,3 @@
+[00:01:44]: [Join Announcement] 糖罐
+[00:03:20]: [Vote Announcement] rollback passed
+[00:03:43]: [Leave Announcement] 糖罐

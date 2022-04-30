@@ -1,0 +1,16 @@
+[00:01:27]: [Join Announcement] 糖罐
+[00:02:13]: [Vote Announcement] rollback passed
+[00:09:03]: [Vote Announcement] rollback passed
+[00:09:07]: [Death Announcement] 糖罐 死于： 龙蝇。他变成了可怕的鬼魂！
+[00:15:15]: [Vote Announcement] rollback passed
+[00:22:36]: [Vote Announcement] rollback passed
+[00:29:13]: [Death Announcement] 糖罐 死于： 龙蝇。他变成了可怕的鬼魂！
+[00:29:16]: [Vote Announcement] rollback passed
+[00:30:22]: [Vote Announcement] rollback passed
+[00:36:58]: [Vote Announcement] rollback passed
+[00:44:37]: [Vote Announcement] rollback passed
+[00:46:47]: [Death Announcement] 糖罐 死于： 嗡嗡蜜蜂。他变成了可怕的鬼魂！
+[00:46:56]: [Vote Announcement] rollback passed
+[00:53:29]: [Vote Announcement] rollback passed
+[00:53:30]: [Death Announcement] 糖罐 死于： 龙蝇。他变成了可怕的鬼魂！
+[01:03:04]: [Leave Announcement] 糖罐

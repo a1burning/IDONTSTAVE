@@ -1,0 +1,4 @@
+[00:01:08]: [Join Announcement] 糖罐
+[01:08:16]: [Vote Announcement] rollback passed
+[01:08:55]: [Death Announcement] 糖罐 死于： 火。他变成了可怕的鬼魂！
+[01:08:55]: [Leave Announcement] 糖罐

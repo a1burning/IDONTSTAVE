@@ -1,0 +1,26 @@
+[00:01:31]: [Join Announcement] 糖罐
+[00:02:22]: [Join Announcement] 顽皮小狐七
+[00:34:01]: [Skin Announcement] 糖罐 wilson_beard_formal
+[00:41:31]: [Death Announcement] 糖罐 死于： 奇形鸟。他变成了可怕的鬼魂！
+[00:43:14]: [Resurrect Announcement] 糖罐 复活自： 天体传送门.
+[00:53:14]: [Death Announcement] 顽皮小狐七 死于： 蜘蛛。她变成了可怕的鬼魂！
+[00:53:26]: [Vote Announcement] rollback passed
+[00:55:50]: [Skin Announcement] 顽皮小狐七 feet_twotone_shoe_red_auburn
+[00:59:14]: [Death Announcement] 糖罐 死于： 蜘蛛。他变成了可怕的鬼魂！
+[00:59:18]: [Vote Announcement] rollback passed
+[01:46:53]: [Skin Announcement] 顽皮小狐七 hand_wilson_magma
+[02:15:27]: [Skin Announcement] 糖罐 feet_wathgrithr_yule
+[02:21:30]: [Death Announcement] 糖罐 死于： 鱼人。他变成了可怕的鬼魂！
+[02:21:40]: [Vote Announcement] rollback passed
+[02:23:26]: [Death Announcement] 糖罐 死于： 鱼人。他变成了可怕的鬼魂！
+[02:23:30]: [Vote Announcement] rollback passed
+[03:06:06]: [Skin Announcement] 顽皮小狐七 golden_farmhoe_invisible
+[03:15:23]: [Death Announcement] 糖罐 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[03:15:29]: [Resurrect Announcement] 糖罐 复活自： 天体传送门.
+[03:16:37]: [Death Announcement] 糖罐 死于： 中暑。他变成了可怕的鬼魂！
+[03:16:44]: [Resurrect Announcement] 糖罐 复活自： 天体传送门.
+[03:21:52]: [Death Announcement] 顽皮小狐七 死于： 中暑。她变成了可怕的鬼魂！
+[03:22:40]: [Resurrect Announcement] 顽皮小狐七 复活自： 天体传送门.
+[03:49:59]: [Vote Announcement] rollback passed
+[03:51:07]: [Leave Announcement] 糖罐
+[03:51:08]: [Leave Announcement] 顽皮小狐七

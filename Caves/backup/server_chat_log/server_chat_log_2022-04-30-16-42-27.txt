@@ -1,0 +1,10 @@
+[00:00:42]: [Join Announcement] 顽皮小狐七
+[00:01:47]: [Join Announcement] 糖罐
+[00:03:01]: [Leave Announcement] 糖罐
+[00:04:50]: [Join Announcement] 糖罐
+[00:10:40]: [Skin Announcement] 糖罐 body_wendy_magma
+[00:22:41]: [Vote Announcement] rollback passed
+[00:53:29]: [Skin Announcement] 顽皮小狐七 legs_winona_gladiator
+[01:18:43]: [Skin Announcement] 糖罐 hand_drivergloves_tan_grass
+[01:20:55]: [Leave Announcement] 糖罐
+[01:22:22]: [Leave Announcement] 顽皮小狐七

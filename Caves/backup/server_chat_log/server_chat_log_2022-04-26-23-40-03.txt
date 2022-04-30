@@ -1,0 +1,9 @@
+[00:01:20]: [Join Announcement] 糖罐
+[00:06:39]: [Join Announcement] 顽皮小狐七
+[00:59:50]: [Death Announcement] 糖罐 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[00:59:57]: [Resurrect Announcement] 糖罐 复活自： 天体传送门.
+[01:04:51]: [Leave Announcement] 顽皮小狐七
+[02:04:17]: [Death Announcement] 糖罐 死于： 蜂王。他变成了可怕的鬼魂！
+[02:04:29]: [Vote Announcement] rollback passed
+[02:04:56]: [Vote Announcement] rollback passed
+[02:12:12]: [Leave Announcement] 糖罐

@@ -1,0 +1,26 @@
+[00:01:55]: [Join Announcement] 糖罐
+[00:12:56]: [Join Announcement] 顽皮小狐七
+[00:39:07]: [Join Announcement] 449066203
+[00:59:26]: [Death Announcement] 糖罐 死于： 奇形鸟。他变成了可怕的鬼魂！
+[00:59:43]: [Resurrect Announcement] 糖罐 复活自： 顽皮小狐七.
+[01:03:24]: [Skin Announcement] 顽皮小狐七 hand_wx78_wrestler
+[01:26:49]: [Skin Announcement] 糖罐 wormhole_worm
+[01:44:15]: [Leave Announcement] 449066203
+[01:45:19]: [Join Announcement] 449066203
+[02:10:07]: [Skin Announcement] 顽皮小狐七 feet_wathgrithr_nature
+[02:13:15]: [Leave Announcement] 449066203
+[02:16:13]: [Join Announcement] 449066203
+[02:33:30]: [Death Announcement] 顽皮小狐七 死于： 天体英雄。她变成了可怕的鬼魂！
+[02:34:30]: [Resurrect Announcement] 顽皮小狐七 复活自： 449066203.
+[02:50:16]: [Death Announcement] 糖罐 死于： 大虚影。他变成了可怕的鬼魂！
+[02:50:18]: [Death Announcement] 顽皮小狐七 死于： 天体英雄。她变成了可怕的鬼魂！
+[02:50:28]: [Resurrect Announcement] 糖罐 复活自： 449066203.
+[02:50:42]: [Death Announcement] 糖罐 死于： 天体英雄。他变成了可怕的鬼魂！
+[02:50:58]: [Vote Announcement] rollback passed
+[02:58:53]: [Death Announcement] 糖罐 死于： 天体英雄。他变成了可怕的鬼魂！
+[02:59:08]: [Vote Announcement] rollback passed
+[03:04:04]: [Death Announcement] 449066203 死于： 大虚影。她变成了可怕的鬼魂！
+[03:04:23]: [Vote Announcement] rollback passed
+[03:06:27]: [Leave Announcement] 糖罐
+[03:06:28]: [Leave Announcement] 449066203
+[03:06:28]: [Leave Announcement] 顽皮小狐七

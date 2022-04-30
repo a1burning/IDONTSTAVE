@@ -1,0 +1,7 @@
+[00:01:36]: [Join Announcement] 糖罐
+[00:02:23]: [Skin Announcement] 糖罐 hand_wx78_gladiator
+[00:16:48]: [Join Announcement] 顽皮小狐七
+[00:49:05]: [Leave Announcement] 顽皮小狐七
+[00:54:59]: [Join Announcement] 顽皮小狐七
+[00:56:17]: [Leave Announcement] 顽皮小狐七
+[00:56:30]: [Leave Announcement] 糖罐

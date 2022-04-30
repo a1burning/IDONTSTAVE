@@ -1,0 +1,7 @@
+[00:01:41]: [Join Announcement] 糖罐
+[00:02:22]: [Join Announcement] 顽皮小狐七
+[00:27:57]: [Skin Announcement] 顽皮小狐七 hand_winona_victorian
+[00:30:43]: [Skin Announcement] 糖罐 feet_warly_fisherman
+[02:12:15]: [Vote Announcement] rollback passed
+[03:00:17]: [Leave Announcement] 顽皮小狐七
+[03:00:48]: [Leave Announcement] 糖罐

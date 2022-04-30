@@ -1,0 +1,7 @@
+[00:01:38]: [Join Announcement] 糖罐
+[01:16:48]: [Death Announcement] 糖罐 死于： 龙蝇。他变成了可怕的鬼魂！
+[01:16:53]: [Vote Announcement] rollback passed
+[01:18:09]: [Vote Announcement] rollback passed
+[01:18:34]: [Vote Announcement] rollback passed
+[01:18:56]: [Vote Announcement] rollback passed
+[01:19:34]: [Leave Announcement] 糖罐
